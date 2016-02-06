@@ -23,4 +23,4 @@ Lastly, if you'd like custom branding for the application, modify the <code>back
   - <code>TPM-< computer-name >.tpm</code>
 
 ### Changelog
-*Version 1.0* - Created the GUI application
+[*Version 1.0*](https://github.com/bitcraft-labs/AD-Bitlocker-Recovery/releases/download/v1.0/GetBitlocker.exe) - Created the GUI application
